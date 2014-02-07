@@ -39,9 +39,9 @@ cookbook 'jmxtrans',
 cookbook 'statsd',
    :git =>  'https://github.com/monigusto/chef-statsd.git'
 
-# Cookbook from main community site is outdated
-cookbook 'npm',
-   :git =>  'https://github.com/monigusto/chef-npm.git'
+# This cookbook might no longer be needed
+#cookbook 'npm',
+#   :git =>  'https://github.com/monigusto/chef-npm.git'
 
 cookbook 'solo-search',
    :git =>  'https://github.com/monigusto/chef-solo-search.git'
