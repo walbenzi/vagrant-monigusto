@@ -8,4 +8,4 @@ gem "librarian"
 gem "librarian-chef"
 
 #gem "veewee" , :git => 'git://github.com/jedi4ever/veewee.git'
-gem "vagrant", ">= 1.0.5"
+#gem "vagrant", ">= 1.0.5" ###Must use vagrant2, which is not provided by rubygems
